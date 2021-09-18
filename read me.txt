@@ -1,0 +1,2 @@
+python numpy and tabulate package should be installed to run the program succesfully !
+otherwise the program will not work properly !
